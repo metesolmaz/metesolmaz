@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=metesolmaz" alt="metesolmaz" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Vue.js, C#**
+- 🌱 I’m currently learning.
 
 - 📫 How to reach me **metesolmaz3450@gmail.com**
 
